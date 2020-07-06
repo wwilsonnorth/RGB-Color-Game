@@ -1,6 +1,6 @@
 # The Great RGB Color Game
-This project was built as part of Colt Steele's Web Developer Bootcamp course.
+This application was built as part of Colt Steele's Web Developer Bootcamp course.
 
-HTML, CSS & JavaScript used. This is an RGB Color Guessing Game where you are given a random color in the rgb model and a number of tiles below where you must guess the correct color that matches the digits above. The 'New Colors' button will reset to a different color if you are finding it too difficult and to make things even easier - there is an easy mode option which will reduce the number of tiles to 3. If you guess correctly, all of the tiles will change color and it will give you the option to play again.
+This is The Great RGB Color Guessing Game where you are given a random color in the RGB color model and a number of different color tiles below. The aim of the game is to guess the correct color that matches the RGB digits above. There is a 'New Colors' button which will reset the game to a different color and if you are finding it too difficult, you can make things even easier by choosing the 'Easy' option which will reduce the number of tiles to 3. If you guess correctly, all of the tiles will change color and it will give you the option to play again.
 
-Use this link to view the entire site - https://wwilsonnorth.github.io/RGB-Color-Game/
+Download and run on your machine to try yourself or use this link to play - https://wwilsonnorth.github.io/RGB-Color-Game/
